@@ -95,7 +95,8 @@ jQuery(document).ready(function($){
   }
 
 
-  //Menu mobile click
+  // Menu mobile click
+
   $( ".icon" ).click(function() {
     $( " ul.menu-click" ).slideToggle( "slow", function() {
     // Animation complete.
